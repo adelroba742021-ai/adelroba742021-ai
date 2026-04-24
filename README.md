@@ -23,3 +23,11 @@ How to build an interactive program that responds to user input
 I enjoyed working on this project and it helped me improve my Python skills.
 https://github.com/adelroba742021-ai/Password-Generator
 
+## 🛒 Shop Calculator :
+This is a  program that helps users calculate the total cost of items in their shopping basket.
+The program allows the user to:
+Enter the number of items in their basket, Input the name and price of each item, View the list of items in the basket Calculate, and  display the total cost of all items.
+I learned loops, lists, user input handling,  basic data processing, and How to use the sum().
+
+
+
