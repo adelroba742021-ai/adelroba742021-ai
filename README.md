@@ -1,7 +1,11 @@
-## Hi there in My Projects👋
+# Hi there in My Projects👋
 
-## 📚 Book Library Manager
+## 📚 Book Library Manager:
 this is a Python project to manage books and wishlist.
 I learned lists,How to update data dynamically (add, remove, move items between lists), and conditional statements in Python. 
 This project helped me understand how real applications manage and update data based on user actions.
 https://github.com/adelroba742021-ai/Book-Library
+
+## Grid Choice Game :
+The project demonstrates basic grid manipulation using lists in Python and grid game where the user selects a position in a 3x3 board and replaces it with a symbol.
+I learned nested lists, indexing, How to manipulate data structures dynamically based on user choices, and user input handling.
