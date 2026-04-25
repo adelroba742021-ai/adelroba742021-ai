@@ -1,33 +1,74 @@
 # Hi there in My Projects👋
 
-## 📚 Book Library Manager :
-this is a Python project to manage books and wishlist.
-I learned lists,How to update data dynamically (add, remove, move items between lists), and conditional statements in Python. 
-This project helped me understand how real applications manage and update data based on user actions.
-https://github.com/adelroba742021-ai/Book-Library
+## مدير مكتبة الكتب 📚:
 
-## Grid Choice Game :
-The project demonstrates basic grid manipulation using lists in Python and grid game where the user selects a position in a 3x3 board and replaces it with a symbol.
-I learned nested lists, indexing, How to manipulate data structures dynamically based on user choices, and user input handling.
-https://github.com/adelroba742021-ai/Grid-Choice
+هذا مشروع بسيط بلغة بايثون يساعد المستخدمين على إدارة مجموعة الكتب الخاصة بهم وقائمة الكتب التي يرغبون في اقتنائها مستقبلًا.
+يتيح البرنامج للمستخدم:
+إضافة الكتب التي يملكها حاليًا
+إنشاء قائمة بالكتب التي يرغب بشرائها لاحقًا (قائمة الرغبات)
+نقل الكتب من قائمة الرغبات إلى المكتبة عند الحصول عليها
+حذف (التبرع بـ) الكتب من المكتبة.
+تعلمت فيه استخدام القوائم (Lists)، وكيفية تحديث البيانات بشكل ديناميكي (إضافة، حذف، ونقل العناصر بين القوائم)، بالإضافة إلى استخدام الجمل الشرطية (Conditional Statements) في بايثون.
+هذا المشروع ساعدني على فهم وتعلم كيف تقوم التطبيقات الحقيقية بإدارة البيانات وتحديثها بناءً على تفاعل المستخدمhttps://github.com/adelroba742021-ai/Book-Library
+.
+## لعبة اختيار الشبكة :
+يقوم فيها المستخدم باختيار موقع داخل شبكة 3×3.
+تكون الشبكة في البداية ممتلئة برموز (إيموجي)، ثم يُطلب من المستخدم اختيار صف وعمود، وبعدها يتم تغيير المكان المختار إلى رمز جديد.
+تعلمت من خلاله القوائم المتداخلة (Nested Lists)، واستخدام الفهارس (Indexing)، وكيفية تعديل هياكل البيانات بشكل ديناميكي بناءً على اختيارات المستخدم، بالإضافة إلى التعامل مع مدخلات المستخدم (User Input Handling).
+                                                                                                                                                                    https://github.com/adelroba742021-ai/Grid-Choice
 
-## 🔐 Password Generator : 
-This is a Python program that generates a random password based on user preferences.
-The program asks the user to specify:The total length of the password,The number of letters, The number of digits (numbers) and The number of symbols.
-It then validates the input to ensure the total matches the sum of all character types. After that, it generates a random password using the specified criteria and shuffles the characters to create a secure and unpredictable result.
-Through building this project, I learned :
-How to use the random module for generating random selections
-How to use the string module to access predefined sets of characters (letters, digits, symbols)
-How to use shuffle() to randomize the order of elements
-How to build an interactive program that responds to user input
-I enjoyed working on this project and it helped me improve my Python skills.
-https://github.com/adelroba742021-ai/Password-Generator
 
-## 🛒 Shop Calculator :
-This is a  program that helps users calculate the total cost of items in their shopping basket.
-The program allows the user to:
-Enter the number of items in their basket, Input the name and price of each item, View the list of items in the basket Calculate, and  display the total cost of all items.
-I learned loops, lists, user input handling,  basic data processing, and How to use the sum().
+## مولد كلمات المرور🔐:
+
+هذا برنامج بلغة بايثون يقوم بإنشاء كلمة مرور عشوائية بناءً على تفضيلات المستخ
+يقوم البرنامج بطلب تحديد:
+الطول الإجمالي لكلمة المرور
+عدد الحروف
+عدد الأرقام
+عدد الرموز
+بعد ذلك، يتحقق من صحة المدخلات للتأكد من أن الطول الكلي يساوي مجموع جميع أنواع الأحرف. ثم يقوم بإنشاء كلمة مرور عشوائية وفقًا للمعايير المحددة، ويخلط الأحرف باستخدام دالة shuffle() للحصول على نتيجة آمنة وغير متوقعة.
+من خلال هذا المشروع، تعلمت:
+كيفية استخدام مكتبة random لإنشاء اختيارات عشوائية
+كيفية استخدام مكتبة string للوصول إلى مجموعات جاهزة من الأحرف (الحروف، الأرقام، الرموز)
+كيفية استخدام shuffle() لخلط ترتيب العناصر
+كيفية بناء برنامج تفاعلي يستجيب لإدخال المستخدم
+استمتعت بالعمل على هذا المشروع، وقد ساعدني على تطوير مهاراتي في لغة بايثون.
+رابط المشروع  https://github.com/adelroba742021-ai/Password-Generator  
+
+
+🛒 حاسبة التسوق (Shop Calculator):
+هذا برنامج يساعد المستخدمين على حساب التكلفة الإجمالية للعناصر الموجودة في سلة التسوق الخاصة بهم.
+يتيح البرنامج للمستخدم:
+إدخال عدد العناصر في السلة
+إدخال اسم وسعر كل عنصر
+عرض قائمة العناصر داخل السلة
+حساب وعرض التكلفة الإجمالية لجميع العناصر
+تعلمت من خلال هذا المشروع:
+استخدام الحلقات (Loops)
+استخدام القوائم (Lists)
+التعامل مع مدخلات المستخدم (User Input Handling)
+معالجة البيانات الأساسية (Basic Data Processing)
+كيفية استخدام الدالة sum()
+
+رابط المشروع:
 https://github.com/adelroba742021-ai/Shop-Calculato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
