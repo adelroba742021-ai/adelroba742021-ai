@@ -60,7 +60,7 @@ https://github.com/adelroba742021-ai/Shop-Calculato
 التعامل مع القوائم والنصوص
 
 رايط المشروع:
-
+https://github.com/adelroba742021-ai/Guess-the-word-game
 
 
 
